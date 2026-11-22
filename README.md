@@ -10,8 +10,3 @@ Features
  Clean Dashboard - Easy to navigate interface
 
 
-How To Run This Project
-1. Clone the repository
-```bash
-git clone https://github.com/roinohermoso-art/student-relationship.git
-cd student-relationship
