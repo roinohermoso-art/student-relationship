@@ -1,6 +1,6 @@
 Student Relationship System
 
-A Laravel-based web application for managing students, courses, subjects, and their relationships.
+A simple Laravel web application for managing student information and their relationship status. Built for learning Laravel, Blade, and Eloquent Relationships.
 
 Features
  Student Management - Add, edit, view, and delete students
@@ -9,11 +9,6 @@ Features
  User Authentication - Login / Register system
  Clean Dashboard - Easy to navigate interface
 
-Tech Stack
-Framework:Laravel 11
-Language:PHP 8.2, Blade, JavaScript
-Database:MySQL
-Frontend:Tailwind CSS, Vite
 
 How To Run This Project
 1. Clone the repository
